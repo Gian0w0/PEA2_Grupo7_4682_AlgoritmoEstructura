@@ -6,15 +6,19 @@
 **Equipo:** Grupo 7  
 **Integrantes:** 5
 
-## 1. Integrantes y responsabilidades
+## 1. Integrantes
 
-| Integrante | Rama de GitHub | Responsabilidad |
+El equipo está conformado por cinco integrantes. Cada uno será responsable de desarrollar, documentar y exponer una parte de la evaluación PA2.
+
+| Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | actividad-1 | Fundamentos y representación de listas enlazadas |
-| [Nombre 2] | actividad-2 | Recorrido e inserción |
-| [Nombre 3] | actividad-3 | Búsqueda, modificación y eliminación |
-| [Nombre 4] | actividad-4 | Listas dobles y circulares |
-| [Nombre 5] | integracion | Integración, pruebas y documentación tecnica|
+| Joseph Gianmarco Soberon Leon | Actividad 1 y coordinación de documentación | Fundamentos, clasificación y representación gráfica de listas enlazadas con al menos 5 nodos. Organización del informe final. |
+| Yasier Araceli Fernández Villavicencio | Actividad 2 – Primera parte | Recorrido completo e inserción al inicio y al final de una lista enlazada. |
+| Claudio Garcia Perez | Actividad 2 – Segunda parte | Inserción después de un nodo y explicación de los cambios en los enlaces. |
+| Gustavo Aarón Cruz Mírez | Actividad 3 | Búsqueda, modificación, eliminación y comparación de eficiencia. |
+| Percy Daniel Perez Rojas | Actividad 4 | Aplicación, diagramas y justificación de listas dobles y circulares. |
+
+**Participación:** Todos los integrantes deberán presentar sus algoritmos, diagramas y explicaciones en el informe PDF y participar en el video de exposición con sus cámaras encendidas.
 
 ## 2. Descripción y objetivo
 
