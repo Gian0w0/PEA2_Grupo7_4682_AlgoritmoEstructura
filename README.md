@@ -6,51 +6,59 @@
 **Equipo:** Grupo 7  
 **Integrantes:** 5
 
-## 1. Integrantes
+## 1. Integrantes y responsabilidades
 
-El equipo está conformado por cinco integrantes. Cada uno será responsable de desarrollar, documentar y exponer una parte de la evaluación PA2.
-
-| Integrante | Rol | Aporte principal |
+| Integrante | Actividad asignada | Aporte principal |
 |---|---|---|
-| Joseph Gianmarco Soberon Leon | Actividad 1 y coordinación de documentación | Fundamentos, clasificación y representación gráfica de listas enlazadas con al menos 5 nodos. Organización del informe final. |
-| Yasier Araceli Fernández Villavicencio | Actividad 2 – Primera parte | Recorrido completo e inserción al inicio y al final de una lista enlazada. |
-| Claudio Garcia Perez | Actividad 2 – Segunda parte | Inserción después de un nodo y explicación de los cambios en los enlaces. |
-| Gustavo Aarón Cruz Mírez | Actividad 3 | Búsqueda, modificación, eliminación y comparación de eficiencia. |
-| Percy Daniel Perez Rojas | Actividad 4 | Aplicación, diagramas y justificación de listas dobles y circulares. |
+| Joseph Gianmarco Soberon Leon | Actividad 1 y coordinación | Fundamentos, clasificación y representación gráfica de listas enlazadas con al menos cinco nodos. Organización del informe final. |
+| Yasier Araceli Fernández Villavicencio | Actividad 3 | Búsqueda, modificación, eliminación de nodos y comparación de eficiencia. |
+| Gustavo Aarón Cruz Mírez | Actividad 4 | Listas doblemente enlazadas y circulares, diagramas, aplicaciones y justificación técnica. |
+| Claudio Garcia Perez | Actividad 2 – Primera parte | Recorrido completo e inserción al inicio y al final de una lista enlazada. |
+| Percy Daniel Perez Rojas | Actividad 2 – Segunda parte | Inserción después de un nodo específico y explicación de los cambios en los enlaces. |
 
-**Participación:** Todos los integrantes deberán presentar sus algoritmos, diagramas y explicaciones en el informe PDF y participar en el video de exposición con sus cámaras encendidas.
+**Participación:** Cada integrante desarrollará, documentará y expondrá su actividad. Todos deberán contribuir al repositorio mediante sus propias cuentas de GitHub.
 
 ## 2. Descripción y objetivo
 
-**Problema:**
+### Problema
 
-Una organización necesita gestionar una secuencia dinámica de solicitudes de atención. Durante el proceso ingresan nuevos casos, algunos se eliminan, otros se modifican o reubican y determinadas operaciones requieren recorrer la información en ambos sentidos o de manera circular.
+Una organización necesita gestionar una secuencia dinámica de solicitudes de atención. Durante el proceso ingresan nuevos casos, algunos se eliminan, otros se modifican y determinadas operaciones requieren recorrer la información en ambos sentidos o de manera circular.
 
-**Objetivo:**
+### Objetivo
 
-Diseñar una solución basada en listas enlazadas que permita representar y gestionar dinámicamente solicitudes de atención, aplicando operaciones de recorrido, inserción, búsqueda, modificación y eliminación.
+Diseñar una solución basada en listas enlazadas que permita gestionar dinámicamente solicitudes de atención, aplicando operaciones de recorrido, inserción, búsqueda, modificación y eliminación.
 
-**Solución propuesta:**
+### Solución propuesta
 
-Se desarrollarán algoritmos y representaciones gráficas utilizando listas enlazadas simples, dobles y circulares, justificando su utilización según las necesidades del caso.
+Desarrollar algoritmos, código y representaciones gráficas utilizando listas enlazadas simples, dobles y circulares, justificando su aplicación según las necesidades del caso.
 
 ## 3. Actividades del proyecto
 
 ### Actividad 1 – Fundamentos y representación
 
+**Responsable: Joseph**
+
 - Definición de lista enlazada.
 - Clasificación de listas enlazadas.
 - Representación gráfica de al menos cinco nodos.
+- Explicación de los datos y enlaces.
 
 ### Actividad 2 – Recorrido e inserción
 
+**Responsables: Claudio y Percy**
+
+**Claudio:**
 - Recorrido completo de una lista.
 - Inserción al inicio.
 - Inserción al final.
-- Inserción después de un nodo.
-- Explicación de los cambios en los enlaces.
+
+**Percy:**
+- Inserción después de un nodo específico.
+- Explicación de las modificaciones en los enlaces.
 
 ### Actividad 3 – Búsqueda, modificación y eliminación
+
+**Responsable: Aracely**
 
 - Búsqueda de nodos.
 - Modificación de información.
@@ -59,75 +67,76 @@ Se desarrollarán algoritmos y representaciones gráficas utilizando listas enla
 
 ### Actividad 4 – Listas dobles y circulares
 
+**Responsable: Gustavo**
+
 - Aplicación de listas doblemente enlazadas.
 - Aplicación de listas circulares.
-- Diagramas y justificación técnica.
+- Elaboración de diagramas.
+- Justificación técnica de cada estructura.
 
 ## 4. Organización del repositorio
 
-**Ramas de trabajo:**
+| Rama | Responsable | Contenido |
+|---|---|---|
+| `main` | Equipo | Versión final integrada |
+| `actividad-1` | Joseph | Fundamentos y representación |
+| `actividad-2` | Claudio | Recorrido e inserción al inicio y final |
+| `actividad-2b` | Percy | Inserción después de un nodo |
+| `actividad-3` | Aracely | Búsqueda, modificación y eliminación |
+| `actividad-4` | Gustavo | Listas dobles y circulares |
+| `integracion` | Equipo | Pruebas y revisión conjunta, si se necesita |
 
-| Rama | Uso |
-|---|---|
-| main | Versión final del proyecto |
-| actividad-1 | Desarrollo de la actividad 1 |
-| actividad-2 | Desarrollo de la actividad 2 |
-| actividad-3 | Desarrollo de la actividad 3 |
-| actividad-4 | Desarrollo de la actividad 4 |
-| integracion | Integración y verificación del proyecto |
-
-Cada integrante desarrollará sus archivos en su rama correspondiente. Los cambios se incorporarán a `main` mediante Pull Requests después de su revisión.
+Cada integrante trabajará desde su cuenta personal y enviará sus cambios mediante un Pull Request para incorporarlos a `main`.
 
 ## 5. Cómo ejecutar o revisar
 
-**Requisitos previstos:**
+### Requisitos previstos
 
-- Java y un JDK compatible con el código desarrollado.
-- IntelliJ IDEA u otro entorno compatible.
-- Git, si se desea clonar el repositorio.
+- Java y JDK compatible.
+- IntelliJ IDEA u otro entorno de desarrollo Java.
+- Git (opcional para clonar el repositorio).
 
-**Pasos de revisión:**
+### Pasos de revisión
 
 1. Acceder al repositorio de GitHub.
-2. Seleccionar la rama o actividad que se desea revisar.
-3. Consultar los diagramas y algoritmos correspondientes.
-4. Abrir los archivos Java disponibles.
-5. Ejecutar los programas siguiendo las instrucciones que se añadirán al finalizar el desarrollo.
+2. Seleccionar la actividad correspondiente.
+3. Revisar los diagramas y explicaciones.
+4. Abrir los archivos Java.
+5. Ejecutar los programas según las instrucciones que se incorporarán cuando estén terminados.
 
-*Las instrucciones definitivas de ejecución se completarán cuando los programas estén implementados.*
+## 6. Evidencias del proyecto
 
-## 6. Evidencias
+Se incorporarán progresivamente:
 
-En esta sección se incluirán:
-
-- Diagramas de listas enlazadas.
-- Código fuente y pseudocódigo.
+- Diagramas de las estructuras.
+- Código fuente Java.
+- Pseudocódigo de las operaciones.
 - Capturas de ejecución.
 - Resultados de pruebas.
-- Enlaces a los archivos desarrollados.
+- Historial de commits y Pull Requests.
 
 ## 7. Matriz de participación
 
-| Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia |
+| Integrante | Desarrollo asignado | Pruebas | Documentación | Exposición | Evidencia GitHub |
 |---|---|---|---|---|---|
-| [Nombre 1] | Pendiente | Pendiente | Pendiente | Pendiente | Commits |
-| [Nombre 2] | Pendiente | Pendiente | Pendiente | Pendiente | Commits |
-| [Nombre 3] | Pendiente | Pendiente | Pendiente | Pendiente | Commits |
-| [Nombre 4] | Pendiente | Pendiente | Pendiente | Pendiente | Commits |
-| [Nombre 5] | Pendiente | Pendiente | Pendiente | Pendiente | Commits |
+| Joseph Gianmarco Soberon Leon | Actividad 1 | Pendiente | Pendiente | Pendiente | Pendiente |
+| Yasier Araceli Fernández Villavicencio | Actividad 3 | Pendiente | Pendiente | Pendiente | Pendiente |
+| Gustavo Aarón Cruz Mírez | Actividad 4 | Pendiente | Pendiente | Pendiente | Pendiente |
+| Claudio Garcia Perez | Actividad 2A | Pendiente | Pendiente | Pendiente | Pendiente |
+| Percy Daniel Perez Rojas | Actividad 2B | Pendiente | Pendiente | Pendiente | Pendiente |
 
-La matriz se actualizará de acuerdo con la participación real de cada integrante.
+La matriz se actualizará de acuerdo con las contribuciones reales de cada integrante.
 
 ## 8. Video de exposición
 
-**Enlace de YouTube:** [Pendiente]
+**Enlace de YouTube:** Pendiente.
 
-Todos los integrantes participarán con sus cámaras encendidas y explicarán cómo desarrollaron sus actividades y por qué eligieron sus respectivas soluciones.
+Todos los integrantes participarán con sus cámaras encendidas y explicarán los algoritmos, diagramas y decisiones técnicas de sus actividades.
 
 ## 9. Conclusiones
 
-*Esta sección se completará después del desarrollo y las pruebas del proyecto.*
+Pendiente de completar después del desarrollo y las pruebas del proyecto.
 
 ---
 
-**Última actualización:** 08/10/2026
+**Última actualización:** 10/10/2026
