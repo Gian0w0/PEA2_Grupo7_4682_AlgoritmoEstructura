@@ -49,7 +49,21 @@ La lista permite incorporar nuevas solicitudes modificando los enlaces correspon
 
 ## 5. Representación gráfica
 
-Pendiente de incorporar el diagrama formal con cinco nodos, sus datos y referencias.
+
+```mermaid
+flowchart LR
+    HEAD --> S001
+    S001 --> S002
+    S002 --> S003
+    S003 --> S004
+    S004 --> S005
+    S005 --> NULL
+```
+
+**Figura 1.** Representación de cinco solicitudes de atención mediante una lista simplemente enlazada.
+
+Cada nodo almacena el código de una solicitud y una referencia al siguiente nodo. HEAD señala el primer nodo y NULL representa el final de la lista.
+
 
 ## 6. Conclusión
 
