@@ -119,7 +119,7 @@ Se incorporarán progresivamente:
 
 | Integrante | Desarrollo asignado | Pruebas | Documentación | Exposición | Evidencia GitHub |
 |---|---|---|---|---|---|
-| Joseph Gianmarco Soberon Leon | Actividad 1 | Pendiente | Pendiente | Pendiente | Pendiente |
+| Joseph Gianmarco Soberon Leon | Actividad 1 | rama - Actividad-1 | Pendiente | Pendiente | PULLREQUEST |
 | Yasier Araceli Fernández Villavicencio | Actividad 3 | Pendiente | Pendiente | Pendiente | Pendiente |
 | Gustavo Aarón Cruz Mírez | Actividad 4 | Pendiente | Pendiente | Pendiente | Pendiente |
 | Claudio Garcia Perez | Actividad 2A | Pendiente | Pendiente | Pendiente | Pendiente |
