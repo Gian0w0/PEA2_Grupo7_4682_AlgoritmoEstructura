@@ -11,10 +11,10 @@
 | Integrante | Actividad asignada | Aporte principal |
 |---|---|---|
 | Joseph Gianmarco Soberon Leon | Actividad 1 y coordinación | Fundamentos, clasificación y representación gráfica de listas enlazadas con al menos cinco nodos. Organización del informe final. |
-| Yasier Araceli Fernández Villavicencio | Actividad 3 | Búsqueda, modificación, eliminación de nodos y comparación de eficiencia. |
+| Percy Daniel Perez Rojas  | Actividad 3 | Búsqueda, modificación, eliminación de nodos y comparación de eficiencia. |
 | Gustavo Aarón Cruz Mírez | Actividad 4 | Listas doblemente enlazadas y circulares, diagramas, aplicaciones y justificación técnica. |
 | Claudio Garcia Perez | Actividad 2 – Primera parte | Recorrido completo e inserción al inicio y al final de una lista enlazada. |
-| Percy Daniel Perez Rojas | Actividad 2 – Segunda parte | Inserción después de un nodo específico y explicación de los cambios en los enlaces. |
+| Claudio Garcia Perez | Actividad 2 – Segunda parte | Inserción después de un nodo específico y explicación de los cambios en los enlaces. |
 
 **Participación:** Cada integrante desarrollará, documentará y expondrá su actividad. Todos deberán contribuir al repositorio mediante sus propias cuentas de GitHub.
 
