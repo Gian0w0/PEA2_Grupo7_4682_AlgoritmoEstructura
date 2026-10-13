@@ -45,20 +45,19 @@ Desarrollar algoritmos, código y representaciones gráficas utilizando listas e
 
 ### Actividad 2 – Recorrido e inserción
 
-**Responsables: Claudio y Percy**
+**Responsables: Claudio**
 
 **Claudio:**
 - Recorrido completo de una lista.
 - Inserción al inicio.
 - Inserción al final.
 
-**Percy:**
 - Inserción después de un nodo específico.
 - Explicación de las modificaciones en los enlaces.
 
 ### Actividad 3 – Búsqueda, modificación y eliminación
 
-**Responsable: Aracely**
+**Responsable: Percy**
 
 - Búsqueda de nodos.
 - Modificación de información.
@@ -80,11 +79,10 @@ Desarrollar algoritmos, código y representaciones gráficas utilizando listas e
 |---|---|---|
 | `main` | Equipo | Versión final integrada |
 | `actividad-1` | Joseph | Fundamentos y representación |
-| `actividad-2` | Claudio | Recorrido e inserción al inicio y final |
-| `actividad-2b` | Percy | Inserción después de un nodo |
-| `actividad-3` | Aracely | Búsqueda, modificación y eliminación |
+| `actividad-2` | Claudio | Recorrido e inserción al inicio y al final, Inserción después de un nodo |
+| `actividad-3` | Percy | Búsqueda, modificación y eliminación |
 | `actividad-4` | Gustavo | Listas dobles y circulares |
-| `integracion` | Equipo | Pruebas y revisión conjunta, si se necesita |
+
 
 Cada integrante trabajará desde su cuenta personal y enviará sus cambios mediante un Pull Request para incorporarlos a `main`.
 
@@ -120,10 +118,9 @@ Se incorporarán progresivamente:
 | Integrante | Desarrollo asignado | Pruebas | Documentación | Exposición | Evidencia GitHub |
 |---|---|---|---|---|---|
 | Joseph Gianmarco Soberon Leon | Actividad 1 | rama - Actividad-1 | Pendiente | Pendiente | PULLREQUEST |
-| Yasier Araceli Fernández Villavicencio | Actividad 3 | Pendiente | Pendiente | Pendiente | Pendiente |
+| Percy Daniel Perez Rojas | Actividad 3 | Pendiente | Pendiente | Pendiente | Pendiente |
 | Gustavo Aarón Cruz Mírez | Actividad 4 | Pendiente | Pendiente | Pendiente | Pendiente |
 | Claudio Garcia Perez | Actividad 2A | Pendiente | Pendiente | Pendiente | Pendiente |
-| Percy Daniel Perez Rojas | Actividad 2B | Pendiente | Pendiente | Pendiente | Pendiente |
 
 La matriz se actualizará de acuerdo con las contribuciones reales de cada integrante.
 
