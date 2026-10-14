@@ -33,6 +33,7 @@ En una lista simple o doble convencional, al llegar al último nodo el puntero a
 
 A continuación se muestra el modelado en código para ambas estructuras aplicadas al caso:
 
+```python
 class NodoDoble:
     def __init__(self, caso_id):
         self.caso_id = caso_id
@@ -61,7 +62,6 @@ class ListaDobleSolicitudes:
             elementos.append(actual.caso_id)
             actual = actual.siguiente
         return elementos
-
 
 class NodoCircular:
     def __init__(self, modulo):
