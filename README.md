@@ -117,22 +117,21 @@ Se incorporarán progresivamente:
 
 | Integrante | Desarrollo asignado | Pruebas | Documentación | Exposición | Evidencia GitHub |
 |---|---|---|---|---|---|
-| Joseph Gianmarco Soberon Leon | Actividad 1 | rama - Actividad-1 | Pendiente | Pendiente | PULLREQUEST |
-| Percy Daniel Perez Rojas | Actividad 3 | Pendiente | Pendiente | Pendiente | Pendiente |
-| Gustavo Aarón Cruz Mírez | Actividad 4 | Pendiente | Pendiente | Pendiente | Pendiente |
-| Claudio Garcia Perez | Actividad 2A | Pendiente | Pendiente | Pendiente | Pendiente |
+| Joseph Gianmarco Soberon Leon | Actividad 1 | rama - Actividad-1 | Realizado | Realizado | commits |
+| Percy Daniel Perez Rojas | Actividad 3 | rama - Actividad-3 | Realizado | Pendiente | commits |
+| Gustavo Aarón Cruz Mírez | Actividad 4 | rama - Actividad-4 | Realizado | Realizado | commits |
+| Claudio Garcia Perez | Actividad 2A | rama Actividad-2a , Activida-2b | Realizado | Realizado | commits |
 
 La matriz se actualizará de acuerdo con las contribuciones reales de cada integrante.
 
 ## 8. Video de exposición
-
-**Enlace de YouTube:** Pendiente.
+https://youtu.be/PmABHANejjo
 
 Todos los integrantes participarán con sus cámaras encendidas y explicarán los algoritmos, diagramas y decisiones técnicas de sus actividades.
 
 ## 9. Conclusiones
 
-Pendiente de completar después del desarrollo y las pruebas del proyecto.
+Conclusiones de cada participante en sus respecticas ramas.
 
 ---
 
