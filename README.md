@@ -1,7 +1,7 @@
 # PA2 – Evaluación aplicada sobre listas enlazadas
 
 **Curso:** Algoritmo y Estructura de Datos Basados en Inteligencia Artificial  
-**Código:** 30710  
+**Código:** 4682  
 **Evaluación:** PA2  
 **Equipo:** Grupo 7  
 **Integrantes:** 5
